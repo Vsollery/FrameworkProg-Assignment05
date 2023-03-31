@@ -33,4 +33,5 @@ public class OrdersClient
         var response = await httpClient.PutAsJsonAsync("notifications/subscribe", subscription);
         response.EnsureSuccessStatusCode();
     }
+    
 }
