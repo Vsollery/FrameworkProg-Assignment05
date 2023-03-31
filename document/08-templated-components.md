@@ -2,6 +2,10 @@
 
 In this session we will make some of the original components more reusable by refactoring them. We'll also construct a separate library project along the way to serve as a home for the additional components.
 
+#### new component library
+
+![](/images/session-8/template-components.jpg)
+
 #### templated dialog
 
 ```html
